@@ -237,7 +237,7 @@ always:
 
 
 
-Credits:https://github.com/charlesncn/charlesncn/edit/main/README.md
+Credits:Charles CNC<p align="left"> <a href="https://github.com/charlesncn/charlesncn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
  Last Updated on 24/09/2022 02:49:29 UTC
 <!--END_SECTION:waka-->
 
