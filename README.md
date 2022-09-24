@@ -1,65 +1,138 @@
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (The)🙏🏻, I'm Ian Mw ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose Labs
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-* 🌍  I'm based in Budapest Hungary
-* ✉️  You can contact me at [mwenesiian@gmail.com](mailto:mwenesiian@gmail.com)
-* 🧠  I'm learning Django , React , Agile Dev , and Advanced Java for Android Mobile development
-* 🤝  I'm open to collaborating on Python and Java projects with a focus on Backend
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-<a href="https://www.twitter.com/The_Iandee" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/The_Iandee?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
-/></a><a href="https://www.github.com/IANDE-X" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/IANDE-X?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+### 📫 Like to meet me?
 
-### Skills
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building Robots to ease opertations",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%2048%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-913-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 619 Contributions in the Year 2022
+ > 
+> 📦 170.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 22 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+🌆 Daytime    304 commits    ██████████░░░░░░░░░░░░░░░   41.14% 
+🌃 Evening    241 commits    ████████░░░░░░░░░░░░░░░░░   32.61% 
+🌙 Night      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
+Tuesday      84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
+Wednesday    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
+Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
+Saturday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
+Sunday       150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.3%
+
+```
 
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-</p>
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               2 hrs 54 mins       ████████████████████████░   95.87% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+
+🔥 Editors: 
+WebStorm                 3 hrs 2 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      3 hrs 2 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               27 repos            ███████████░░░░░░░░░░░░░░   45.0% 
+Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/IANDE-X" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/17.14.999.0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//ian-mw-021b23170/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users//iande" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/The_Iandee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ Last Updated on 24/09/2022 02:49:29 UTC
+<!--END_SECTION:waka-->
 
-### Badges
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/IANDE-X"><img src="https://github-readme-stats.vercel.app/api?username=IANDE-X&show_icons=true&hide=stars,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="IANDE-X's GitHub stats" /></a>
-
-<a href="http://www.github.com/IANDE-X"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IANDE-X&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/IANDE-X"><img src="https://activity-graph.herokuapp.com/graph?username=IANDE-X&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/IANDE-X" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IANDE-X&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="50%" align="center"><a href="https://github.com/IANDE-X/springjavaapi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IANDE-X&repo=springjavaapi&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
-<div width="50%" align="center"><a href="https://github.com/IANDE-X/lofuV1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IANDE-X&repo=lofuV1&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
+YyMTcyNTA5XX0=
+-->
