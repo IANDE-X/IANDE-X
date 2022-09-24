@@ -120,9 +120,6 @@ Sunday       150 commits    █████░░░░░░░░░░░░�
 <a href="http://www.github.com/IANDE-X"><img src="https://github-readme-stats.vercel.app/api?username=IANDE-X&show_icons=true&hide=stars,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="IANDE-X's GitHub stats" /></a>
 <a href="http://www.github.com/IANDE-X"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IANDE-X&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/IANDE-X"><img src="https://activity-graph.herokuapp.com/graph?username=IANDE-X&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/IANDE-X" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IANDE-X&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ## Friends & Collabs
 </div>
 
