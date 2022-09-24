@@ -195,8 +195,7 @@ always:
    
    
         
-## Tech Skills & Tools
-
+## Friends & Collabs
 </div>
 
 <table>
