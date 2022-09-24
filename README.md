@@ -135,7 +135,6 @@ Sunday       150 commits    █████░░░░░░░░░░░░�
   <tr>
     <td>
 <p>
-
           
 ```python
   ------------Roadmap------------
@@ -189,7 +188,6 @@ always:
     </td>
   </tr>
 </table>
-
 
 <div align="center">
    
