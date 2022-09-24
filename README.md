@@ -1,22 +1,11 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi I'm Ian Mw ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm The Ian ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer in Budapest Hungary 
+<p><em>Software Engineer from Budapest - Hungary 
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is The Ian Mw
-==================================================================================================================================
-
-Im a Java &Python Developer, A practising DevOps and Ai Developer
------------------------------------------------------------------
-
-const thai = { code: \[Javascript, Typescript, HTML, CSS, kotlin , Python, Java\], tools: \[React, Redux, Node, Storybook, Styled-Components, Kurbenetes , Docker\], architecture: \["microservices", "event-driven", "design system pattern"\], techCommunities: { coorganizer: "AfroPython", speaker: "Code with mosh ", mentor: "EducaTRANSforma" }, challenge: "I am doing the #100DaysOfCode challenge focused on"java and python }
-
-* 🌍  I'm based in Budapest Hungary
-* ✉️  You can contact me at [mwenesiian@gmail.com](mailto:mwenesiian@gmail.com)
-* 🧠  I'm learning Django , React , Agile Dev , and Advanced Java for Android Mobile development
-* 🤝  I'm open to collaborating on Python and Java projects with a focus on Backend
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: The Ian ](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-mw-021b23170/)](https://www.linkedin.com/in/ian-mw-021b23170/)
 <a href="https://www.twitter.com/The_Iandee" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/The_Iandee?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
 /></a><a href="https://www.github.com/IANDE-X" target="_blank" rel="noreferrer"><img
@@ -27,7 +16,7 @@ src="https://img.shields.io/github/followers/IANDE-X?logo=github&style=for-the-b
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/IANDE-X/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 👇 Hit in your console or terminal to connect with me.
 
