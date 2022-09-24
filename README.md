@@ -86,6 +86,7 @@ Saturday     106 commits    ███░░░░░░░░░░░░░░�
 Sunday       150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.3%
 
 ```
+<h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -207,35 +208,6 @@ always:
     <td aligh="center">
 <div align="center">
    
-### Languages, Tools and Frameworks
-                
----
-   
-   <br>
-   <br>
-   <br>
-   <br>
-
-   
-![NPM](https://img.shields.io/badge/NPM-3670A0?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-3670A0?style=for-the-badge&logo=node.js&logoColor=white)
-       
-![Figma](https://img.shields.io/badge/figma-3670A0?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-3670A0?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-3670A0?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-3670A0?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-    </td>
-  </tr>
-</table>
-   
-
-
 
   Credits:<p align="left"> <a href="https://github.com/charlesncn/charlesncn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 Charles CNC
