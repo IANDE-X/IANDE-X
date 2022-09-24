@@ -6,13 +6,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Iandee?label=Follow)](https://twitter.com/intent/follow?screen_name=The_Iandee)
 [![Linkedin:Ian ](https://img.shields.io/badge/Ian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-mw-021b23170/)](https://www.linkedin.com/in/ian-mw-021b23170/)
-<a href="https://www.twitter.com/The_Iandee" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/The_Iandee?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
-/></a><a href="https://www.github.com/IANDE-X" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/IANDE-X?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
-### Socials
-<p align="left"> <a href="https://www.github.com/IANDE-X" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/17.14.999.0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//ian-mw-021b23170/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users//iande" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/The_Iandee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p
-
+<img src="https://img.shields.io/github/followers/IANDE-X?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+<a href="http://www.instagram.com/17.14.999.0/">
+  <img align="left" alt="Ian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Ians Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
