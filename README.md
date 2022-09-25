@@ -1,9 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm The Ian ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Iandee?label=Follow)](https://twitter.com/intent/follow?screen_name=The_Iandee)
 [![Linkedin:Ian ](https://img.shields.io/badge/Ian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-mw-021b23170/)](https://www.linkedin.com/in/ian-mw-021b23170/)
 <img src="https://img.shields.io/github/followers/IANDE-X?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
