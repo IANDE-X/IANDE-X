@@ -1,7 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm The Ian ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Iandee?label=Follow)](https://twitter.com/intent/follow?screen_name=The_Iandee)
 [![Linkedin:Ian ](https://img.shields.io/badge/Ian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-mw-021b23170/)](https://www.linkedin.com/in/ian-mw-021b23170/)
 <img src="https://img.shields.io/github/followers/IANDE-X?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
@@ -117,7 +116,6 @@ Sunday       150 commits    █████░░░░░░░░░░░░�
 
 <a href="http://www.github.com/IANDE-X"><img src="https://github-readme-stats.vercel.app/api?username=IANDE-X&show_icons=true&hide=stars,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="IANDE-X's GitHub stats" /></a>
 <a href="http://www.github.com/IANDE-X"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IANDE-X&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/IANDE-X"><img src="https://activity-graph.herokuapp.com/graph?username=IANDE-X&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ## Friends & Collabs
 </div>
 
