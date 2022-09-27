@@ -111,11 +111,6 @@ Sunday       150 commits    █████░░░░░░░░░░░░�
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/IANDE-X"><img src="https://github-readme-stats.vercel.app/api?username=IANDE-X&show_icons=true&hide=stars,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="IANDE-X's GitHub stats" /></a>
-<a href="http://www.github.com/IANDE-X"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IANDE-X&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 ## Friends & Collabs
 </div>
 
