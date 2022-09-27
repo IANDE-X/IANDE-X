@@ -114,14 +114,23 @@ Sunday       150 commits    █████░░░░░░░░░░░░�
 
   Credits:<p align="left"> <a href="https://github.com/charlesncn/charlesncn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 Charles CNC
-    
-    
+   
  Last Updated on 24/09/2022 02:49:29 UTC
 <!--END_SECTION:waka-->
+**🐱 My GitHub Data** 
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+> 🏆 619 Contributions in the Year 2022
+ > 
+> 📦 170.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 22 Private Repositories  
+ > 
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+NOTE:  There are others which I haven't put up on GitHub.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
 YyMTcyNTA5XX0=
