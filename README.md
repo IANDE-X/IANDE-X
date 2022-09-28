@@ -17,28 +17,24 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://calendly.com/mwenesiian/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## ⚡️ A Few Quick Facts
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+- 🔭 I’m currently working on NLP Project
+- 🌱 I’m currently learning Java ☕
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 DIY Raspberry Pi Projects
+  - 🤖 Robotics
+- 📝 I write technical blogs and articles
+- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+- 🤔 I’m looking for help with Devops
+- 💬 Ask me about Python, ML, CV, Raspi
+- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -50,25 +46,6 @@ const anmol = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
-🌆 Daytime    304 commits    ██████████░░░░░░░░░░░░░░░   41.14% 
-🌃 Evening    241 commits    ████████░░░░░░░░░░░░░░░░░   32.61% 
-🌙 Night      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97%
-
-```
-📅 **I'm Most Productive on Weekend** 
-
-```text
-Monday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
-Tuesday      84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
-Wednesday    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.26% 
-Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-Saturday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-Sunday       150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.3%
 
 ```
 <h3>Things I code with</h3>
