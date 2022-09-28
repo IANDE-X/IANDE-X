@@ -46,8 +46,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-
-```
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -76,40 +74,5 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-## Friends & Collabs
-</div>
 
-<table>
-  <td>
-<p>
-   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/charlesncn/files/main/ai.gif?raw=true" width="450" height="320"/>
-</p>
-    </td>
-    <td aligh="center">
-<div align="center">
-   
-
-  Credits:<p align="left"> <a href="https://github.com/charlesncn/charlesncn/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-Charles CNC
-  
-  
- Last Updated on 24/09/2022 02:49:29 UTC
-<!--END_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 619 Contributions in the Year 2022
- > 
-> 📦 170.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 22 Private Repositories  
- > 
-
-NOTE:  There are others which I haven't put up on GitHub.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
-YyMTcyNTA5XX0=
 -->
