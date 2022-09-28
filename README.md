@@ -32,7 +32,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 - 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 📙 Check out my [Resume](https://www.linkedin.com/in/ian-mw-021b23170/)
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
 
