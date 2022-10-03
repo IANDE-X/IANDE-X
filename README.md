@@ -1,14 +1,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Iandee?label=Follow)](https://twitter.com/intent/follow?screen_name=The_Iandee)
 [![Linkedin:Ian ](https://img.shields.io/badge/Ian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-mw-021b23170/)](https://www.linkedin.com/in/ian-mw-021b23170/)
-<img src="https://img.shields.io/github/followers/IANDE-X?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
-<a href="http://www.instagram.com/17.14.999.0/">
-  <img align="left" alt="Ian's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Ians Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 ### 📫 Like to meet me?
-
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
 <a href="https://calendly.com/mwenesiian/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
