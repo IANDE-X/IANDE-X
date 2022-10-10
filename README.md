@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Ian/inde-x/blob/master/images/header.gif" alt="header"/>
-</div>
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-iandeProfile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/the_Iandee)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/ian-mw-021b23170/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.linkedin.com/in/ian-mw-021b23170/)
@@ -70,46 +66,3 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
-🌆 Daytime    306 commits    ██████████░░░░░░░░░░░░░░░   41.24% 
-🌃 Evening    242 commits    ████████░░░░░░░░░░░░░░░░░   32.61% 
-🌙 Night      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.9%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Tuesday      84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
-Wednesday    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.82% 
-Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
-Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
-Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-Sunday       150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.22%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               14 hrs 13 mins      █████████████████░░░░░░░░   68.06% 
-Java                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
-XML                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
-Kotlin                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
-
-🔥 Editors: 
-WebStorm                 14 hrs 57 mins      ██████████████████░░░░░░░   71.57% 
-Android Studio           5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.43%
-
-💻 Operating System: 
-Mac                      20 hrs 54 mins      █████████████████████████   100.0%
-
-```
