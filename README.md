@@ -1,8 +1,8 @@
-[![Hayatu's GitHub Banner](./assets/GitHubHeader.png)](https://hayatusanusi.io)
+[![Ians GitHub Banner](./assets/GitHubHeader.png)](https:// iande-x.io)
 
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/hamicch/hamicch)](https://hayatusanusi.io) -->
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/iande-x/iande-x)](https://iande-x.io) -->
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/the_Iandee)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-iandeProfile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/the_Iandee)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/ian-mw-021b23170/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.linkedin.com/in/ian-mw-021b23170/)
 
