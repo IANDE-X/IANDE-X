@@ -1,3 +1,9 @@
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/hamicch/hamicch)](https://hayatusanusi.io) -->
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=1CA2F1&color=1CA2F1)](https://twitter.com/hamicch)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=0D76A8&color=0D76A8)](https://www.linkedin.com/in/sanusihayatu/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=940081&color=940081)](https://www.linkedin.com/in/sanusihayatu/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Iandee?label=Follow)](https://twitter.com/intent/follow?screen_name=The_Iandee)
 [![Linkedin:Ian ](https://img.shields.io/badge/Ian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-mw-021b23170/)](https://www.linkedin.com/in/ian-mw-021b23170/)
 ### 📫 Like to meet me?
